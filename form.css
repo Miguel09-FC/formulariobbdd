@@ -1,0 +1,61 @@
+body {
+    height:100%;
+    /* background-image: url("https://www.publiink.com/wp-content/uploads/2016/05/fondo-formulario-fullpage.png"); */
+    background-image: url(https://frases.top/wp-content/uploads/2019/11/imagenes-de-fondos-de-pantalla-bonitas.jpg);
+    font-family: Arial, Helvetica, sans-serif; 
+    
+    
+}
+.contact_form {
+    width: 460px;
+    height: auto;
+    margin: 80px auto;
+    border-radius: 18px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: linear-gradient(21deg, #94bbe9, #eeaeca);;
+    border: inset black;
+    transform: scale(.993, .94);
+    transition: transform .5s, opacity .25s; 
+    border-radius: 0px !important;
+    box-shadow: 0 0rem 1rem rgba(0, 0, 0, 0.808)!important;;
+    opacity: 1;
+	transform: scale(1);
+
+}
+
+button{
+    border-radius: 10px;
+    border-style: solid;
+    border: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;  
+    background: rgb(249, 249, 250);
+    border: 3px inset rgb(0, 0, 0);
+    background: linear-gradient(21deg, #ffffff, #eeaeca);
+
+}
+input{
+    border: inset black;
+    transition: ease-out;
+    background-color: white;
+    background: linear-gradient(21deg, #ffffff, #eeaeca);
+    opacity: 1;
+	transform: scale(1);
+
+}
+
+.enviar{
+    width: 49%;
+    height: 50px;
+    left: 0px;
+
+}
+
+.login{
+    width: 50%;
+    height: 50px;
+    right: 0px;
+}
